@@ -73,11 +73,7 @@ I love building things that live on both sides of the stack — from clean, resp
 
 ## 📊 GitHub Stats
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaogabrielMSantos&theme=dark&hide_border=true&show_icons=true)
-
 ![Streak](https://streak-stats.demolab.com?user=JoaogabrielMSantos&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaogabrielMSantos&theme=dark&hide_border=true&layout=compact)
 
 ---
 
