@@ -73,13 +73,21 @@ I love building things that live on both sides of the stack — from clean, resp
 
 ## 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=JoaogabrielMSantos&theme=dark&hide_border=true)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=JoaogabrielMSantos&theme=dark&hide_border=true&show_icons=true&rank_icon=github" alt="Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaogabrielMSantos&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" /></td>
+  </tr>
+</table>
+
+![Streak](https://streak-stats.demolab.com?user=JoaogabrielMSantos&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
 <div align="center">
 
-### Have a good day! :)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+*"The best code is the one that doesn't need to be explained."*
 
 </div>
+
+![Profile views](https://visitcount.itsvg.in/api?id=JoaogabrielMSantos&icon=0&color=0)
