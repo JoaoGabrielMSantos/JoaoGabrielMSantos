@@ -87,5 +87,3 @@ I love building things that live on both sides of the stack — from clean, resp
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
-![Profile views](https://visitcount.itsvg.in/api?id=JoaogabrielMSantos&icon=0&color=0)
