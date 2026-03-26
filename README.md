@@ -83,7 +83,8 @@ I love building things that live on both sides of the stack — from clean, resp
 
 <div align="center">
 
-*"The best code is the one that doesn't need to be explained."*
+### Have a good day! :)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
