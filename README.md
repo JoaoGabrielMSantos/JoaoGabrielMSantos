@@ -11,7 +11,7 @@
 
 # João Gabriel M. Santos
 
-**Fullstack Developer** · Resident @ Porto Digital · Brazil 🇧🇷
+**Fullstack Developer** · Brazil 🇧🇷
 
 [![Email](https://img.shields.io/badge/jdemeiradossantos@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:jdemeiradossantos@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-jgsnts-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/jgsnts)
