@@ -23,8 +23,6 @@
 
 ## About
 
-I'm a passionate fullstack developer based in Brazil, currently working on [**Fabrika's Workspace**](https://fabrikaprototipo.vercel.app/dashboard) and collaborating as a resident at [**Porto Digital**](https://www.portodigital.org/paginas-institucionais/pessoas/residencia-tecnologica) — one of the largest tech hubs in Latin America.
-
 I love building things that live on both sides of the stack — from clean, responsive interfaces to robust backend architectures. Right now I'm deepening my skills in **Spring Boot**, **Angular**, and the broader JavaScript ecosystem. I'm also passionate about game development and creative tools, exploring worlds with **Unreal Engine** and **Blender**.
 
 ---
