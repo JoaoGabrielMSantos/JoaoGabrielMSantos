@@ -71,11 +71,9 @@ const gabriel: Developer = {
 <td width="42%" valign="top">
 
 - 🏛️ Estagiário no **Ministério da Defesa**
-- 🎓 Ciência da Computação na **UCB**, formatura em **2027**
-- 🏭 Ex-residente **Porto Digital**, com um sistema para a indústria têxtil integrado ao ERP Bling
-- 🧱 Curto **multi-tenant**, **RLS** e **Repository Pattern**
+- 🎓 Ciência da Computação na **UCB**, formatura em **2028**
+- 🏭 Ex-residente **Porto Digital**, com um sistema para a indústria têxtil integrado ao ERP Bling e um sistema voltado a geração automática de dashboards a partir de planilhas
 - ⚡ Automatizo processos com **n8n** + **Python**
-- 💬 Pode falar comigo sobre **SaaS, Supabase, automação e produto**
 
 </td>
 </tr>
@@ -111,10 +109,11 @@ const gabriel: Developer = {
 **Desenvolvedor Fullstack (residente)** · em parceria com a UCB  
 <img src="https://img.shields.io/badge/2026-6B7280?style=flat-square" alt="2026"/>
 
-- Desenvolvi o **Fabryka**, sistema de gestão para uma indústria de malharia integrado ao **ERP Bling**
+- Desenvolvi um sistema que gera Dashboards automaticamente a partir de planilhas upadas pela empresa
+- Desenvolvi um sistema de gestão para uma indústria de malharia integrado ao **ERP Bling**
 - Geração automática de **fichas técnicas** com custo e preço para atingir a margem de lucro-alvo
 - Fiz uma **auditoria de segurança (RLS)** que fechou o acesso não autenticado a todas as 8 tabelas do banco
-- Projeto eleito entre os **melhores do semestre**
+- Ambos os projetos eleitos entre os **melhores do semestre**
 
 </td>
 </tr>
@@ -174,7 +173,7 @@ const gabriel: Developer = {
 </tr>
 
 <tr>
-<td>🏭 <b>Fabryka</b><br/><br/>
+<td>🏭 <b>Sistema de geração de ficha técnica</b><br/><br/>
 <img src="https://img.shields.io/badge/Porto_Digital-residência-1E3A8A?style=flat-square"/>
 </td>
 <td>Sistema de gestão para indústria de malharia, integrado ao <b>ERP Bling</b>. Gera <b>fichas técnicas</b> com custo do produto e o preço necessário para atingir a margem de lucro-alvo. Eleito entre os melhores projetos do semestre.</td>
