@@ -1,96 +1,275 @@
+<!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
- 
-```
-                               ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗██╗
-                               ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝██║
-                               ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  ██║
-                               ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  ╚═╝
-                               ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗██╗
-                                ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝
-```
 
-# João Gabriel M. Santos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B21B6,100:A78BFA&height=220&section=header&text=Jo%C3%A3o%20Gabriel&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20Computer%20Science%20%40%20UCB&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
-**Fullstack Developer** · Brazil 🇧🇷
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Eu+sou+o+Gabriel!+%F0%9F%91%8B;Estagi%C3%A1rio+no+Minist%C3%A9rio+da+Defesa+%F0%9F%8F%9B%EF%B8%8F;Transformo+problemas+de+neg%C3%B3cio+em+arquitetura;React+%2B+TypeScript+%7C+Node.js+%7C+Java+%7C+Python;SaaS+multi-tenant+com+Supabase+%2B+RLS" alt="Typing SVG"/>
+</a>
 
-[![Email](https://img.shields.io/badge/jdemeiradossantos@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:jdemeiradossantos@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-jgsnts-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/jgsnts)
-[![Portfolio](https://img.shields.io/badge/Fabrika's_Workspace-live-00C896?style=flat-square&logo=vercel&logoColor=white)](https://fabrikaprototipo.vercel.app/dashboard)
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_Estagi%C3%A1rio-Minist%C3%A9rio_da_Defesa-1E3A8A?style=for-the-badge&labelColor=0D1117" alt="Estagiário no Ministério da Defesa"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%93_Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-UCB_%C2%B7_2027-5B21B6?style=for-the-badge&labelColor=0D1117" alt="Ciência da Computação UCB"/>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/JoaoGabrielMSantos?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+<img src="https://komarev.com/ghpvc/?username=JoaoGabrielMSantos&style=for-the-badge&color=8B5CF6&label=VISITAS" alt="Visitas"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## About
+<!-- ═══════════════════════════════  TERMINAL (NEOFETCH)  ═══════════════════════════════ -->
+```text
+                      gabriel@github
+                      ──────────────────────────────────────
+                      OS........: Linux 🐧
+     ██╗ ██████╗      Host......: Universidade Católica de Brasília
+     ██║██╔════╝      Curso.....: Ciência da Computação (2027)
+     ██║██║  ███╗     Trabalho..: Estagiário @ Ministério da Defesa
+██   ██║██║   ██║     Shell.....: TypeScript
+╚█████╔╝╚██████╔╝     Frontend..: React · TypeScript
+ ╚════╝  ╚═════╝      Backend...: Node.js · Java · Python
+                      Database..: PostgreSQL · Supabase (RLS)
+                      Automação.: n8n
+                      IDE.......: VS Code + Claude Code
+                      Contato...: linkedin.com/in/SEU_LINKEDIN
+```
 
-I love building things that live on both sides of the stack — from clean, responsive interfaces to robust backend architectures. Right now I'm deepening my skills in **Spring Boot**, **Angular**, and the broader JavaScript ecosystem. I'm also passionate about game development and creative tools, exploring worlds with **Unreal Engine** and **Blender**.
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
----
+<!-- ═══════════════════════════════  SOBRE MIM  ═══════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> Sobre mim
 
-## 🛠 Tech Stack
+<table>
+<tr>
+<td width="58%" valign="top">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+```typescript
+const gabriel: Developer = {
+  nome:       "João Gabriel",
+  local:      "Brasília, Brasil 🇧🇷",
+  formacao: {
+    curso:     "Ciência da Computação",
+    faculdade: "Universidade Católica de Brasília",
+    conclusao: 2027,
+  },
+  atualmente: [
+    "Estagiário no Ministério da Defesa",
+    "Construindo SaaS multi-tenant",
+    "Automatizando tudo com n8n",
+  ],
+  foco:       ["Fullstack", "Arquitetura", "Produto"],
+  filosofia:  "Código bom resolve problema de gente de verdade.",
+};
+```
+
+</td>
+<td width="42%" valign="top">
+
+- 🏛️ Estagiário no **Ministério da Defesa**
+- 🎓 Ciência da Computação na **UCB**, formatura em **2027**
+- 🏭 Ex-residente **Porto Digital**, com um sistema para a indústria têxtil integrado ao ERP Bling
+- 🧱 Curto **multi-tenant**, **RLS** e **Repository Pattern**
+- ⚡ Automatizo processos com **n8n** + **Python**
+- 💬 Pode falar comigo sobre **SaaS, Supabase, automação e produto**
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════════  EXPERIÊNCIA  ═══════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"/> Experiência
+
+<table>
+<tr>
+<td width="90" align="center" valign="top"><h1>🏛️</h1></td>
+<td valign="top">
+
+### Ministério da Defesa
+**Estagiário** · Governo Federal · Brasília/DF  
+<img src="https://img.shields.io/badge/nov_2026_%E2%80%94_atual-22C55E?style=flat-square" alt="atual"/>
+
+<!-- ✏️ Troque os itens abaixo pelas suas atividades reais quando tiver mais clareza delas -->
+- Estágio na administração pública federal
+- Apoio à equipe com tratamento e organização de dados
+- Contato com processos, rotinas e escala de um órgão do Governo Federal
+
+</td>
+</tr>
+
+<tr>
+<td width="90" align="center" valign="top"><h1>🏭</h1></td>
+<td valign="top">
+
+### Residência em Software — Porto Digital
+**Desenvolvedor Fullstack (residente)** · em parceria com a UCB  
+<img src="https://img.shields.io/badge/2026-6B7280?style=flat-square" alt="2026"/>
+
+- Desenvolvi o **Fabryka**, sistema de gestão para uma indústria de malharia integrado ao **ERP Bling**
+- Geração automática de **fichas técnicas** com custo e preço para atingir a margem de lucro-alvo
+- Fiz uma **auditoria de segurança (RLS)** que fechou o acesso não autenticado a todas as 8 tabelas do banco
+- Projeto eleito entre os **melhores do semestre**
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Stack & ferramentas
+
+<div align="center">
+
+<img align="left" src="./assets/circuit-left.svg" width="110" alt=""/>
+<img align="right" src="./assets/circuit-right.svg" width="110" alt=""/>
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" alt="frontend"/>
 
-### Backend & Infrastructure
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,c&theme=dark" alt="backend"/>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+### Banco de dados & BaaS
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" alt="db"/>
 
-### Design & Creative
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+### DevOps & ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,vscode,figma&theme=dark" alt="tools"/>
 
----
+<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=JoaogabrielMSantos&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JoaogabrielMSantos&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaogabrielMSantos&layout=compact&theme=dark&hide_border=true)
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Row_Level_Security-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Edge_Functions-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/Multi--tenant-5B21B6?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════════  PROJETOS  ═══════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Projetos em destaque
+
+<table>
+<tr>
+<th width="25%">Projeto</th>
+<th width="50%">O que resolve</th>
+<th width="25%">Stack</th>
+</tr>
+
+<tr>
+<td>🏫 <b><a href="https://github.com/JoaoGabrielMSantos/prototipo_gestao_escolar">Gestão Escolar SaaS</a></b><br/><br/>
+<img src="https://img.shields.io/github/languages/top/JoaoGabrielMSantos/prototipo_gestao_escolar?style=flat-square&color=8B5CF6"/>
+<img src="https://img.shields.io/github/last-commit/JoaoGabrielMSantos/prototipo_gestao_escolar?style=flat-square&color=5B21B6&label=commit"/>
+</td>
+<td>Plataforma <b>multi-tenant</b> para escolas com perfis de <b>Secretaria, Professor, Aluno e Responsável</b> (que alterna entre vários dependentes). Notas, turmas, comunicados por turma e um módulo de <b>Atividades</b> no estilo Google Classroom.</td>
+<td><code>React</code> <code>TS</code> <code>Supabase</code> <code>RLS</code> <code>Edge Functions</code></td>
+</tr>
+
+<tr>
+<td>🏭 <b>Fabryka</b><br/><br/>
+<img src="https://img.shields.io/badge/Porto_Digital-residência-1E3A8A?style=flat-square"/>
+</td>
+<td>Sistema de gestão para indústria de malharia, integrado ao <b>ERP Bling</b>. Gera <b>fichas técnicas</b> com custo do produto e o preço necessário para atingir a margem de lucro-alvo. Eleito entre os melhores projetos do semestre.</td>
+<td><code>React</code> <code>TS</code> <code>Supabase</code> <code>Bling API</code></td>
+</tr>
+
+<tr>
+<td>💸 <b><a href="https://github.com/JoaoGabrielMSantos/racha-ai">Racha Aí</a></b><br/><br/>
+<img src="https://img.shields.io/badge/status-em_desenvolvimento-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/github/last-commit/JoaoGabrielMSantos/racha-ai?style=flat-square&color=5B21B6&label=commit"/>
+</td>
+<td>Divide despesas de grupo e calcula quem deve pra quem, com acerto de contas via <b>QR Code Pix</b>.</td>
+<td><code>React</code> <code>TS</code> <code>Supabase</code> <code>Pix</code></td>
+</tr>
+
+<tr>
+<td>⚙️ <b><a href="https://github.com/JoaoGabrielMSantos/pre-processador-assembler">Pré-processador Assembler</a></b><br/><br/>
+<img src="https://img.shields.io/github/languages/top/JoaoGabrielMSantos/pre-processador-assembler?style=flat-square&color=8B5CF6"/>
+<img src="https://img.shields.io/github/last-commit/JoaoGabrielMSantos/pre-processador-assembler?style=flat-square&color=5B21B6&label=commit"/>
+</td>
+<td>Pré-processador e <b>analisador léxico</b> em C para um subconjunto do assembly <b>MIPS</b>, feito para a disciplina de Linguagens Formais, Autômatos e Compiladores.</td>
+<td><code>C</code> <code>Compiladores</code> <code>MIPS</code></td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════════  COMO EU CONSTRUO  ═══════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="30"/> Como eu construo um produto
+
+```mermaid
+flowchart LR
+    A([💡 Ideia]) --> B{Valida?}
+    B -- não --> A
+    B -- sim --> C[🏗️ Arquitetura<br/>modelagem + multi-tenant]
+    C --> D[🎨 Design de telas<br/>fluxo e UX]
+    D --> E[💻 Implementação<br/>React + Supabase]
+    E --> F[🔐 Segurança<br/>auditoria de RLS]
+    F --> G([🚀 Deploy])
+    G -. feedback .-> A
+
+    style A fill:#5B21B6,stroke:#A78BFA,color:#fff
+    style G fill:#5B21B6,stroke:#A78BFA,color:#fff
+    style F fill:#3ECF8E,stroke:#1C1C1C,color:#000
+```
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════════  ESTATÍSTICAS  ═══════════════════════════════ -->
+<!-- Os SVGs da pasta metrics/ são gerados pelo workflow .github/workflows/metrics.yml -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> Estatísticas
 
 <div align="center">
 
-### Have a good day! :)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="./metrics/geral.svg" alt="métricas gerais"/>
+
+<img src="./metrics/linguagens.svg" alt="linguagens mais usadas"/>
+
+<img src="https://streak-stats.demolab.com?user=JoaoGabrielMSantos&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&locale=pt_BR" alt="streak"/>
+
+<img src="./metrics/calendario.svg" alt="calendário isométrico de contribuições"/>
+
+<img src="./metrics/conquistas.svg" alt="conquistas"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════════  COBRINHA  ═══════════════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"/> Comendo minhas contribuições
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoGabrielMSantos/JoaoGabrielMSantos/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoGabrielMSantos/JoaoGabrielMSantos/output/github-contribution-grid-snake.svg"/>
+  <img alt="cobrinha das contribuições" src="https://raw.githubusercontent.com/JoaoGabrielMSantos/JoaoGabrielMSantos/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
+<div align="center">
+
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Right-Facing%20Fist.png" width="38"/>
+  &nbsp;Bora construir algo junto?&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Left-Facing%20Fist.png" width="38"/>
+</h3>
+
+Aberto a **projetos freelance**, **parcerias** e **trocas de ideia** sobre produto e SaaS.
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/Me_chama_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:5B21B6,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
