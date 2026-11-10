@@ -25,7 +25,7 @@
 ```text
                       gabriel@github
                       ──────────────────────────────────────
-                      OS........: Linux 🐧
+                      OS........: Windows
      ██╗ ██████╗      Host......: Universidade Católica de Brasília
      ██║██╔════╝      Curso.....: Ciência da Computação (2027)
      ██║██║  ███╗     Trabalho..: Estagiário @ Ministério da Defesa
@@ -35,7 +35,8 @@
                       Database..: PostgreSQL · Supabase (RLS)
                       Automação.: n8n
                       IDE.......: VS Code + Claude Code
-                      Contato...: linkedin.com/in/SEU_LINKEDIN
+                      Contato...: linkedin.com/in/joão-gabriel-de-meira-dos-santos-058025372
+
 ```
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
