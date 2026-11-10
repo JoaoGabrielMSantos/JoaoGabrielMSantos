@@ -237,8 +237,6 @@ flowchart LR
 
 <img src="./metrics/calendario.svg" alt="calendário isométrico de contribuições"/>
 
-<img src="./metrics/conquistas.svg" alt="conquistas"/>
-
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
